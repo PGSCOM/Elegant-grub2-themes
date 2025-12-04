@@ -1,0 +1,1 @@
+./install.sh -c light -s 2k -i right -p float -t forest -l default
